@@ -125,123 +125,187 @@ Address ranges to be use by private networks are:
 
 ```
 ###
-[1] what is LAN
+[12] How many wires are used in UTP during transmission ?
+```
+
+Each of the eight individual copper wires in UTP cable \is covered by an insulating material.
+উত্তর: UTP তারের আটটি পৃথক তামার তারের প্রতিটি একটি অন্তরক পদার্থ দ্বারা আবৃত।
+
+
+```
+###
+[13] What is ONU ?
+```
+
+It is the optical terminal device in the fiber access network, which provides users with multiple service interfaces.
+উত্তর: এটি ফাইবার অ্যাক্সেস নেটওয়ার্কের অপটিক্যাল টার্মিনাল ডিভাইস, যা ব্যবহারকারীদের একাধিক পরিষেবা ইন্টারফেস প্রদান করে।
+
+
+```
+###
+[14] What is ODF in fiber optics?
+```
+
+a frame used to provide cable interconnections between communication facilities.
+উত্তর: যোগাযোগ সুবিধার মধ্যে তারের আন্তঃসংযোগ প্রদানের জন্য ব্যবহৃত একটি ফ্রেম।
+
+
+```
+###
+[15] Why is ODF used ?
+```
+
+used to provide cable interconnections between communication facilities.
+উত্তর: যোগাযোগ সুবিধার মধ্যে তারের আন্তঃসংযোগ প্রদান করতে ব্যবহৃত হয়।
+
+
+```
+###
+[16] What is an ODF rack?
+```
+
+ A rack designed accommodate high density Feeder Panels or Splitter Panels used in FTTH PON networks.
+উত্তর: FTTH PON নেটওয়ার্কে ব্যবহৃত উচ্চ ঘনত্বের ফিডার প্যানেল বা স্প্লিটার প্যানেলগুলির জন্য ডিজাইন করা একটি র্যাক।
+
+
+```
+###
+[17] What is OTDR in optical Fiber ?
+```
+
+A device that tests the integrity of a fiber cable and is used for the building, certifying, maintaining, and troubleshooting fiber optic systems.
+উত্তর: একটি যন্ত্র যা একটি ফাইবার তারের অখণ্ডতা পরীক্ষা করে এবং ফাইবার অপটিক সিস্টেম নির্মাণ, সার্টিফাই, রক্ষণাবেক্ষণ এবং সমস্যা সমাধানের জন্য ব্যবহৃত হয়।
+
+
+
+
+```
+###
+[18]  How many type of OTDR?
+```
+four types of OTDR
+Full-feature OTDR
+Hand-held OTDR
+Fiber Break Locator
+RTU in RFTSs
+
+```
+###
+[19] What is the size of ODF rack ?
+```
+
+2200mm (Hight) x 600-900mm (width) x 300mm (depth)
+
+```
+###
+[20]  What is a Media Convertor ?
+```
+
+A device that  converts Ethernet or other communication protocols from one cable type to another type.
+( they connect devices that are beyond 100 meters from the nearest available switch.)
+উত্তর: একটি ডিভাইস যা ইথারনেট বা অন্যান্য যোগাযোগের প্রোটোকলকে এক ক্যাবল টাইপ থেকে অন্য টাইপে রূপান্তর করে।
+
+
+```
+###
+[21] What is Patch Cord?
+```
+
+A patch cord is a length of cable with connectors  that is used to connect end devices to power sources.
+উত্তর: একটি প্যাচ কর্ড হল সংযোগকারী সহ একটি দৈর্ঘ্যের তার যা শেষ ডিভাইসগুলিকে পাওয়ার উত্সের সাথে সংযুক্ত করতে ব্যবহৃত হয়।
+
+```
+###
+[22]  What are the different types of Patch Cords?
+```
+
+a. Fiber Cable Mode: Single Mode or Multimode
+b. Number of Fiber Strands: Simplex or Duplex
+c. Jacket Type: PVC or LSZH
+d. Connector Type: LC, SC, ST or Others
+e. Polishing Type: PC, UPC or APC
+f. Armored Fiber Patch Cord
+g. Bend Insensitive Fiber Patch Cord
+h. Mode Conditioning Fiber Patch Cord
+
+
+```
+###
+[23] What are SFP modules ?
+```
+
+Small form-factor pluggable (SFP) transceivers are providing communication between switches and important network components.
+উত্তর: ছোট ফর্ম-ফ্যাক্টর প্লাগেবল (SFP) ট্রান্সসিভারগুলি সুইচ এবং গুরুত্বপূর্ণ নেটওয়ার্ক উপাদানগুলির মধ্যে যোগাযোগ প্রদান করে।
+
+
+```
+###
+[24] What is diamond cutter used for ?
 ```
 
 
 ```
 ###
-[1] what is LAN
+[25] How many types of Optical Fiber ?
 ```
+There are two types of fibre optic cables.
+a. multimode (MM) fiber
+b. single-mode (SM) fib
+
+```
+###
+[26] What is Optical Fiber and how does it work?
+```
+
+Fiber optics is a technology that uses optical fibers to transmit data as light signals.
+Each light particle (photon) bounces down the pipe with continued internal mirror-like reflection.
+উত্তর: ফাইবার অপটিক্স হল একটি প্রযুক্তি যা আলোক সংকেত হিসাবে ডেটা প্রেরণের জন্য অপটিক্যাল ফাইবার ব্যবহার করে।
+ প্রতিটি আলোক কণা (ফোটন) ক্রমাগত অভ্যন্তরীণ আয়নার মতো প্রতিফলনের সাথে পাইপের নিচে বাউন্স করে।
 
 
 ```
 ###
-[1] what is LAN
+[27]  What is a Link?
 ```
+communications facilities that connect nodes of a network.
+উত্তর: যোগাযোগের সুবিধা যা একটি নেটওয়ার্কের নোডগুলিকে সংযুক্ত করে।
+
+```
+###
+[28] What are the layers of the OSI reference model ?
+```
+
+There are 7 OSI layers
+ Physical Layer
+ Data Link Layer
+ Network Layer
+ Transport Layer
+ Session Layer
+Presentation Layer 
+Application Layer
+
+```
+###
+[29] What is backbone network?
+```
+ A part of a computer network which interconnects networks,
+ providing a path for the exchange of information between different LANs.
+উত্তর: একটি কম্পিউটার নেটওয়ার্কের একটি অংশ যা নেটওয়ার্কগুলিকে আন্তঃসংযোগ করে, বিভিন্ন ল্যানের মধ্যে তথ্য আদান-প্রদানের জন্য একটি পথ প্রদান করে।
 
 
 ```
 ###
-[1] what is LAN
+[30] What is a node?
 ```
-
-
-```
-###
-[1] what is LAN
-```
-
+node is a device or data point in a larger network, such as a PC or phone.
+উত্তর: নোড হল পিসি বা ফোনের মতো বৃহত্তর নেটওয়ার্কে একটি ডিভাইস বা ডেটা পয়েন্ট।
 
 ```
 ###
-[1] what is LAN
+[31] What are routers?
 ```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
-
-```
-###
-[1] what is LAN
-```
-
+A router is a device that connects two or more packet-switched networks.
+উত্তর: রাউটার এমন একটি ডিভাইস যা দুই বা ততোধিক প্যাকেট-সুইচড নেটওয়ার্ককে সংযুক্ত করে।
 
 ```
 ###
