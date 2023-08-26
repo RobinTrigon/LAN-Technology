@@ -309,8 +309,142 @@ A router is a device that connects two or more packet-switched networks.
 
 ```
 ###
+[32] What is a private IP address ?
+```
+
+Ans:A private IP address is a range of non-internet facing IP addresses used in an internal network.
+উত্তর: একটি ব্যক্তিগত IP ঠিকানা হল একটি অভ্যন্তরীণ নেটওয়ার্কে ব্যবহৃত অ-ইন্টারনেট-মুখী IP ঠিকানাগুলির একটি পরিসর।
+
+
+
+```
+###
+[33]  What is NOS?
+```
+
+Ans:A network operating system (NOS) is a computer operating system (OS) that's designed to support workstations, PCs and older terminals that are connected on a local area network (LAN).
+
+উত্তর: একটি নেটওয়ার্ক অপারেটিং সিস্টেম (NOS) হল একটি কম্পিউটার অপারেটিং সিস্টেম (OS) যা একটি লোকাল এরিয়া নেটওয়ার্কে (LAN) সংযুক্ত ওয়ার্কস্টেশন, পিসি এবং পুরানো টার্মিনালগুলিকে সমর্থন করার জন্য ডিজাইন করা হয়েছে।
+
+```
+###
+[34] What is OSI and what role does it play in computer networks?
+```
+
+Ans:The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system.
+
+উত্তর: OSI মডেল (ওপেন সিস্টেম ইন্টারকানেকশন মডেল) হল একটি ধারণাগত কাঠামো যা একটি নেটওয়ার্কিং সিস্টেমের কার্যাবলী বর্ণনা করতে ব্যবহৃত হয়।
+
+
+```
+###
+[35]  What is the purpose of cables being shielded and having twisted pairs?
+```
+Ans: to provide the best protection against cross-talk and electromagnetic interference.
+উত্তর: ক্রস-টক এবং ইলেক্ট্রোম্যাগনেটিক হস্তক্ষেপের বিরুদ্ধে সর্বোত্তম সুরক্ষা প্রদান করতে।
+
+
+```
+###
+[36] What is the advantage of address sharing?
+```
+
+Ans: By sharing addresses, the IP health is monitored not by a single user but by other domain users as well.
+উত্তর: ঠিকানাগুলি ভাগ করে নেওয়ার মাধ্যমে, আইপি স্বাস্থ্য একক ব্যবহারকারীর দ্বারা নয় বরং অন্যান্য ডোমেন ব্যবহারকারীদের দ্বারাও পর্যবেক্ষণ করা হয়।
+
+```
+###
+[37] What is the equivalent layer or layers of the TCP/IP Application layer in terms of OSI reference model?
+```
+Ans: The TCP/IP Application layer  has three counterparts on the OSI model: the Session layer, Presentation Layer and Application Layer.
+উত্তর: TCP/IP অ্যাপ্লিকেশন স্তরের OSI মডেলে তিনটি প্রতিরূপ রয়েছে: সেশন লেয়ার, প্রেজেন্টেশন লেয়ার এবং অ্যাপ্লিকেশন লেয়ার।
+
+
+```
+###
+[38] How can you identify the IP class of a given IP address?
+```
+If it begins with 0, then it's a Class A network.
+If it begins with 10, then it's a Class B network.
+If it begins with 110, then it's a Class C network.
+If it begins with 1110, then it's a Class D network.
+If it begins with 1111, then it's a Class E network.
+
+
+```
+###
+[39] What are firewalls?
+```
+A Firewall is a network security device that monitors and filters incoming and outgoing network traffic.
+উত্তর: একটি ফায়ারওয়াল হল একটি নেটওয়ার্ক নিরাপত্তা ডিভাইস যা ইনকামিং এবং আউটগোয়িং নেটওয়ার্ক ট্র্যাফিক নিরীক্ষণ এবং ফিল্টার করে
+
+
+```
+###
+[40] Describe star topology
+```
+Ans: a network topology in which each network component is physically connected to a central node such as a router, hub or switch.
+উত্তর: একটি নেটওয়ার্ক টপোলজি যেখানে প্রতিটি নেটওয়ার্ক উপাদান একটি কেন্দ্রীয় নোড যেমন রাউটার, হাব বা সুইচের সাথে শারীরিকভাবে সংযুক্ত থাকে।
+
+```
+###
 [1] what is LAN
 ```
 
 
 ```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+###
+[1] what is LAN
+```
+
+
+```
+
